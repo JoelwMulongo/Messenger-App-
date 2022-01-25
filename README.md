@@ -1,4 +1,4 @@
-<a href="https://dev.to/joelwmulongo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBI-e_AVQPqtwDc80GyPn43TbZ5EnhM7oJiA&usqp=CAU"/></a> <br>
+<a href="https://dev.to/joelwmulongo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBI-e_AVQPqtwDc80GyPn43TbZ5EnhM7oJiA&usqp=CAU"/></a> &nbsp; <a href="https://dev.to/joelwmulongo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBI-e_AVQPqtwDc80GyPn43TbZ5EnhM7oJiA&usqp=CAU"/></a> <br> <br>
   Current Time: <span id="txt"></span>  
 <script>  
 window.onload=function(){getTime();}  
