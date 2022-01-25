@@ -1,5 +1,5 @@
 <a href="https://dev.to/joelwmulongo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBI-e_AVQPqtwDc80GyPn43TbZ5EnhM7oJiA&usqp=CAU"/></a> &nbsp; <a href="https://dev.to/joelwmulongo"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBI-e_AVQPqtwDc80GyPn43TbZ5EnhM7oJiA&usqp=CAU"/></a> ![image](https://user-images.githubusercontent.com/75514748/151007639-b1d67dd0-0f86-466e-a506-045ecddf63f0.png)
-&nbsp;  <br> <br>
+&nbsp; ![Joel](Https://GitHub.com/joelwmulongo/fleet/blob/main/joel.gif?raw=true) <br> <br>
   Current Time: <span id="txt"></span>  
 <script>  
 window.onload=function(){getTime();}  
