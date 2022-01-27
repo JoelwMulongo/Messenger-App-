@@ -1,5 +1,5 @@
  ![Joel](Https://GitHub.com/joelwmulongo/fleet/blob/main/joel.gif?raw=true) <br>
-  Current Time: <span id="txt"></span>  
+ <body style="background-image:url(images/sms_bg.jpg); background-size: cover; background-repeat: no-repeat; "> Current Time: <span id="txt"></span>  
 <script>  
 window.onload=function(){getTime();}  
 function getTime(){  
@@ -20,7 +20,7 @@ if (i<10){
  }  
 return i;  
 }  
-</script>  
+</script>  </body>
   <form method="get" action="http://www.google.com/search">
 
 <div style="border:2px dotted black;padding:4px;width:15em;">
