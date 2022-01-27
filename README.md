@@ -1,5 +1,5 @@
  ![Joel](Https://GitHub.com/joelwmulongo/fleet/blob/main/joel.gif?raw=true) <br>
- <body style="background-image:url(images/sms_bg.jpg); background-size: cover; background-repeat: no-repeat; "> Current Time: <span id="txt"></span>  
+ <body style="background-image:url(stackoverflow.png); background-size: cover; background-repeat: no-repeat; "> Current Time: <span id="txt"></span>  
 <script>  
 window.onload=function(){getTime();}  
 function getTime(){  
