@@ -21,7 +21,7 @@ if (i<10){
 return i;  
 }  
 </script>  </body> 
-<Marquee> now yes <Img SRC = "GYFG.jpg" width = "40%" height = "150"></marquee>
+<Marquee> now yes </marquee>
   <form method="get" action="http://www.google.com/search">
 
 
