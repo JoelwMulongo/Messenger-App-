@@ -21,7 +21,7 @@ if (i<10){
 return i;  
 }  
 </script>  </body> 
-<Img SRC = "GYFG.jpg" width = "40%" height = "200">
+<Img SRC = "GYFG.jpg" width = "40%" height = "150">
   <form method="get" action="http://www.google.com/search">
 
 
