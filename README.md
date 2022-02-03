@@ -20,8 +20,9 @@ if (i<10){
  }  
 return i;  
 }  
-</script>  </body> 
-<Marquee> now yes </marquee>
+</script>  </body> <html>
+<Marquee> now yes </marquee> </html>
+
   <form method="get" action="http://www.google.com/search">
 
 
