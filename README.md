@@ -20,7 +20,7 @@ if (i<10){
  }  
 return i;  
 }  
-</script>  </body> <IMG SRC= "joel.gif">
+</script>  </body> 
 <Img SRC = "gyfg.jpg">
   <form method="get" action="http://www.google.com/search">
 
