@@ -20,8 +20,9 @@ if (i<10){
  }  
 return i;  
 }  
-</script>  </body>
+</script>  </body> <IMG SRC= "joel.gif">
   <form method="get" action="http://www.google.com/search">
+
 
 <div style="border:2px dotted black;padding:4px;width:15em;">
 <table border="0" align="center" cellpadding="0">
