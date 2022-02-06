@@ -23,6 +23,6 @@ return i;
 }  
 </script>
 <Marquee> now yes </marquee> </html>
-<Img SRC= "stack_overflow.png">
+<Img SRC= "stack_overflow.png" height = "10" width = "30">
 
  
