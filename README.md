@@ -29,9 +29,9 @@ return i;
 ![Am I a Joke to you](https://readme-jokes.vercel.app/api)
 
  
- ​#​ ​[​GitHub Stats Visualization​](https://github.com/jstrieb/github-stats) 
+ ​#​ ​[​GitHub Stats Visualization​](https://github.com/JoelwMulongo/github-stats) 
   
- ​<a href="https://github.com/jstrieb/github-stats"> 
+ ​<a href="https://github.com/joelwmulongo/github-stats"> 
   
  ​![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg) 
  ​![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
