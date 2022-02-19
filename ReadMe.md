@@ -8,10 +8,8 @@
   
  ​![​Jokes Card​](https://readme-jokes.vercel.app/api?hideBorder) 
  ​<br/> 
- ​To use multiple parameters use '​`&`​' after the first parameter, e.g. ​`?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51` 
-  
- ​will produce a jokes card without border, with cobalt theme, answer color #944bcc and question color #bbdb51 like so: 
- ​<br/> 
+ ​
+ 
  ​![​Jokes Card​](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51) 
   
  ​####​ ​Parameters Available 
