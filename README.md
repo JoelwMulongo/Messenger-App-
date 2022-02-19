@@ -27,3 +27,11 @@ return i;
 
  #Before you go, I have a **RANDOM JOKE** for you :smile:
 ![Am I a Joke to you](https://readme-jokes.vercel.app/api)
+
+ 
+ ​#​ ​[​GitHub Stats Visualization​](https://github.com/jstrieb/github-stats) 
+  
+ ​<a href="https://github.com/jstrieb/github-stats"> 
+  
+ ​![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg) 
+ ​![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
