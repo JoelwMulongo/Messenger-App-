@@ -6,27 +6,6 @@
  ​![​Jokes Card​](https://readme-jokes.vercel.app/api) 
  ​``` 
   
- ​<p align="center">or</p> 
-  
- ​```html 
- ​<!--​ HTML ​--> 
- ​<​img​ ​src​=​"​https://readme-jokes.vercel.app/api​"​ ​alt​=​"​Jokes Card​"​ /> 
- ​``` 
-  
- ​###​ ​Customization Guide 
-  
- ​Customize using ​`?`​ after /api in the https link, example here with no borders using the ​`hideBorder`​ parameter. 
- ​<br/> 
-  
- ​Markdown method: 
- ​`![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)` 
- ​<br/> 
-  
- ​Image method: 
- ​`<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />` 
- ​<br/> 
-  
- ​Both methods will produce the following jokes card without border: 
  ​![​Jokes Card​](https://readme-jokes.vercel.app/api?hideBorder) 
  ​<br/> 
  ​To use multiple parameters use '​`&`​' after the first parameter, e.g. ​`?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51` 
