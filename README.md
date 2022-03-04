@@ -43,19 +43,11 @@ return i;
 </p>
 <a href="https://github.com/joelwmulongo/github-readme-activity-graph"><img alt="Joel Mulongo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joelwmulongo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <h2>Professional Experience</h2>
-            
-        
-        
-                        
+
+Data Entry & Analysis, KALRO Kiboko <BR>
+Participated in data collection and entry exercise focusing on crops from farmers who had filled some questionnaires under supervision of Supervised by Janet Kimutai (Research Officer, KALRO)
                             
-    
         
-        <div >Data Collector, KALRO Kiboko</span></li>
-                            <li><span class="causale">Project: Participated in data collection and entry exercise funded bey FAO,
-								focusing on land degradation, climate change, forage legume and grass seed production.
-								Supervised by DR. Everlyne Kirwa and DR. John Manyeki.</span> </li>
-                            <li><p><small class="text-muted"> December, 2020 - January, 2021</small></p> </li>
-                        </ul>
                     
     
         
