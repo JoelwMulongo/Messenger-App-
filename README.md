@@ -42,3 +42,140 @@ return i;
     </a>
 </p>
 <a href="https://github.com/joelwmulongo/github-readme-activity-graph"><img alt="Joel Mulongo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joelwmulongo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<h2>Professional Experience</h2>
+            </div>
+        <div id="timeline"><div class="row timeline-movement timeline-movement-top">
+        <div class="timeline-badge timeline-future-movement">
+            <a href="#">
+                <span class="glyphicon glyphicon-plus"></span>
+            </a>
+        </div>
+        <div class="timeline-badge timeline-filter-movement">
+            <a href="#">
+                <span class="glyphicon glyphicon-time"></span>
+            </a>
+        </div>
+    
+    </div>
+    <div class="row timeline-movement">
+    
+        <div class="timeline-badge">
+            <span class="timeline-balloon-date-day">Feb</span>
+            <span class="timeline-balloon-date-month">2026</span>
+        </div>
+    
+    
+        <div class="col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-11">
+                    <div class="timeline-panel credits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">job</span></li>
+                            <li><span class="causale">description </span> </li>
+                            <li><p><small class="text-muted"> date</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-offset-1 col-sm-11">
+                    <div class="timeline-panel debits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">job</span></li>
+                            <li><span class="causale">description </span> </li>
+                            <li><p><small class="text-muted"> date</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!--due -->
+    
+    <div class="row timeline-movement">
+    
+    
+        <div class="timeline-badge">
+            <span class="timeline-balloon-date-day">Mar</span>
+            <span class="timeline-balloon-date-month">2022</span>
+        </div>
+    
+        <div class="col-sm-offset-6 col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-offset-1 col-sm-11">
+                    <div class="timeline-panel debits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">job</span></li>
+                            <li><span class="causale">description </span> </li>
+                            <li><p><small class="text-muted"> date</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-11">
+                    <div class="timeline-panel credits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">Data Collector, KALRO Kiboko</span></li>
+                            <li><span class="causale">Project: Participated in data collection and entry exercise funded bey FAO,
+								focusing on land degradation, climate change, forage legume and grass seed production.
+								Supervised by DR. Everlyne Kirwa and DR. John Manyeki.</span> </li>
+                            <li><p><small class="text-muted"> December, 2020 - January, 2021</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+    
+    
+    </div>
+    <div class="row timeline-movement">
+    
+    
+        <div class="timeline-badge">
+            <span class="timeline-balloon-date-day">Aug</span>
+            <span class="timeline-balloon-date-month">2019</span>
+        </div>
+    
+        <div class="col-sm-offset-6 col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-offset-1 col-sm-11">
+                    <div class="timeline-panel debits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">Data Clerk, ICRISAT Kiboko</span></li>
+                            <li><span class="causale">Participated in field observation, data collection and data entry: Data cleansing and analysis </span> </li>
+                            <li><p><small class="text-muted"> May, 2019 - August, 2019</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+    
+        <div class="col-sm-6  timeline-item">
+            <div class="row">
+                <div class="col-sm-11">
+                    <div class="timeline-panel credits">
+                        <ul class="timeline-panel-ul">
+                            <li><span class="importo">Data Collector, KALRO Kiboko</span></li>
+                            <li><span class="causale">Did lab experiments on dry land pasture seeds of different regions and data entry; Sampling test subjects and data coding </span> </li>
+                            <li><p><small class="text-muted"> July, 2018 - August, 2018</small></p> </li>
+                        </ul>
+                    </div>
+    
+                </div>
+            </div>
+        </div>
+    
+    
