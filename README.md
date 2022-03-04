@@ -44,21 +44,16 @@ return i;
 <a href="https://github.com/joelwmulongo/github-readme-activity-graph"><img alt="Joel Mulongo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=joelwmulongo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <h2>Professional Experience</h2>
 
-Data Entry & Analysis, KALRO Kiboko <BR>
+<Strong>Data Entry & Analysis, KALRO Kiboko </strong><BR>
 Participated in data collection and entry exercise focusing on crops from farmers who had filled some questionnaires under supervision of Supervised by Janet Kimutai (Research Officer, KALRO)
                             
-        
+<Strong> Data Feeding, ICRISAT Kiboko </strong><BR>
+Participated in field observation, data collection and data entry: Data cleansing and analysis under supervision of Mr. Patrick Sheunda & Mr. Gelvasio Mukono 
+
+<Strong> attachment, Makueni County Government</strong> <BR>
+Undertook a deep learning attachment in the County department of Education & ICT where I got to participate and be exposed to a wider range of IT related things both software and hardware. In addition to IT trainings
+  
                     
     
-        
-                            <li><span class="importo">Data Clerk, ICRISAT Kiboko</span></li>
-                            <li><span class="causale">Participated in field observation, data collection and data entry: Data cleansing and analysis </span> </li>
-                            <li><p><small class="text-muted"> May, 2019 - August, 2019</small></p> </li>
-                        </ul>
-                    
-    
-        <li><span class="importo">Data Collector, KALRO Kiboko</span></li>
-                            <li><span class="causale">Did lab experiments on dry land pasture seeds of different regions and data entry; Sampling test subjects and data coding </span> </li>
-                            <li><p><small class="text-muted"> July, 2018 - August, 2018</small></p> </li>
                         
     
