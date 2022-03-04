@@ -45,13 +45,17 @@ return i;
 <h2>Professional Experience</h2>
 
 <Strong>Data Entry & Analysis, KALRO Kiboko </strong><BR>
-Participated in data collection and entry exercise focusing on crops from farmers who had filled some questionnaires under supervision of Supervised by Janet Kimutai (Research Officer, KALRO)
+Participated in data collection and entry exercise focusing on crops from farmers who had filled some questionnaires under supervision of Supervised by Janet Kimutai (Research Officer, KALRO) <BR>
+August 2019
                             
 <Strong> Data Feeding, ICRISAT Kiboko </strong><BR>
-Participated in field observation, data collection and data entry: Data cleansing and analysis under supervision of Mr. Patrick Sheunda & Mr. Gelvasio Mukono 
+Participated in field observation, data collection and data entry: Data cleansing and analysis under supervision of Mr. Patrick Sheunda & Mr. Gelvasio Mukono <BR>
+May 2018 to July 2018
 
-<Strong> attachment, Makueni County Government</strong> <BR>
-Undertook a deep learning attachment in the County department of Education & ICT where I got to participate and be exposed to a wider range of IT related things both software and hardware. In addition to IT trainings
+
+<Strong> Attachment, Makueni County Government</strong> <BR>
+Undertook a deep learning attachment in the County department of Education & ICT where I got to participate and be exposed to a wider range of IT related things both software and hardware. In addition to IT trainings<BR>
+August 2018 to December 2018
   
                     
     
