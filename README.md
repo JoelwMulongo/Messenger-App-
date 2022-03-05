@@ -56,7 +56,27 @@ May 2018 to July 2018
 <Strong> Attachment, Makueni County Government</strong> <BR>
 Undertook a deep learning attachment in the County department of Education & ICT where I got to participate and be exposed to a wider range of IT related things both software and hardware. In addition to IT trainings<BR>
 August 2018 to December 2018
-  
+  <form  action="https://formspree.io/f/xlezjane" method="post" id="contactform" role="form">
+
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" class="form-control" name="name" id="name" placeholder="Enter name" title="Please enter your name (at least 2 characters)" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="form-control" name="email" id="email" placeholder="Enter email" title="Please enter a valid email address" required>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label for="comments">Comments</label>
+                            <textarea name="comment" class="form-control" id="comments" cols="3" rows="5" placeholder="Enter your message…" title="Please enter your message (at least 10 characters)"></textarea>
+                        </div>	
+					
+					<button type="submit" class="btn btn-lg btn-primary" id="submit">Submit</button>
+                    </div>					
+				</form>
                     
     
                         
