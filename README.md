@@ -66,7 +66,9 @@ August 2018 to December 2018 <br>
   <button type="submit" id="submit">Submit</button>
    </form>
 <H1> projects </h1>
+Stock Control System
 <A href="https://github.com/JoelwMulongo/stock-control-system"><IMG alt="Stock System" SRC="stock.jpeg"/>  </a> <BR>
+Weather forecast app
 <A href="Https://GitHub.com/joelwmulongo/meteorological-department"><IMG alt="weather forecast app" SRC="weather_forecast.png"/> </a>
   
                         
