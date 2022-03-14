@@ -65,6 +65,7 @@ August 2018 to December 2018 <br>
   <textarea name="comment" cid="comments" cols="3" rows="5" placeholder="Enter your message…" title="Please enter your message (at least 10 characters)"></textarea><BR>
   <button type="submit" id="submit">Submit</button>
    </form>
+#Projects
                     
     
                         
