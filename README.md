@@ -71,7 +71,7 @@ Stock Control System
 Weather forecast app
 <A href="Https://GitHub.com/joelwmulongo/meteorological-department"><IMG alt="weather forecast app" SRC="weather_forecast.png"/> </a> <BR>
 Car Parking management system
-<A href="https://github.com/JoelwMulongo/car-park-management-system"><IMG SRC="carpark.png"/> </a>
+<A href="https://github.com/JoelwMulongo/car-park-management-system"><IMG SRC="carpark.jpeg"/> </a>
   
                         
     
