@@ -24,7 +24,7 @@ return i;
 </script>
 <Marquee> now yes </marquee> </html>
 <a href="https://stackoverflow.com/uers/16901798/joel-mulongo"> <Img SRC= "stack_overflow.png" height = "90" width = "90"> </a>
-<a href="Https://linktr.ee/joelwmulongo"> <IMG SRC="linktr.ee.png"></a>
+<a href="Https://linktr.ee/joelwmulongo"> <IMG SRC="linktree.png"></a>
  #Before you go, I have a **RANDOM JOKE** for you :smile:
 ![Am I a Joke to you](https://readme-jokes.vercel.app/api)
 
