@@ -66,11 +66,11 @@ August 2018 to December 2018 <br>
   <button type="submit" id="submit">Submit</button>
    </form>
 <H1> projects </h1>
-Stock Control System
+<Strong> Stock Control System </strong>
 <A href="https://github.com/JoelwMulongo/stock-control-system"><IMG alt="Stock System" SRC="stock.jpeg"/>  </a> <BR>
-Weather forecast app
+<Strong>  Weather Forecast App</strong>
 <A href="Https://GitHub.com/joelwmulongo/meteorological-department"><IMG alt="weather forecast app" SRC="weather_forecast.png"/> </a> <BR>
-Car Parking management system
+<strong> Car Parking Management System </Strong>
 <A href="https://github.com/JoelwMulongo/car-park-management-system"><IMG SRC="carpark.jpeg"/> </a>
   
                         
