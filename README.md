@@ -321,6 +321,8 @@ August 2018 to December 2018 <br>
 <A href="Https://GitHub.com/joelwmulongo/meteorological-department"><IMG alt="weather forecast app" SRC="weather_forecast.png"/> </a> <BR>
 <strong> Car Parking Management System </Strong>
 <A href="https://github.com/JoelwMulongo/car-park-management-system"><IMG SRC="carpark.jpeg"/> </a>
+<Footer>
  <A href="https://WA.me/254743888406"> WhatsApp </a>
+</Footer>
                         
     
