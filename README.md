@@ -1,2 +1,2 @@
 Messenger App
-<img src="Joel.gif"/>
+<img src="Joel.gif">
