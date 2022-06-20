@@ -8,7 +8,15 @@ import { useAuthState, useAuthDispatch } from "../context/auth";
 import { useMessageDispatch } from "../context/message";
 import { NEW_MESSAGE, NEW_REACTION } from "../constants/graphql/subscriptions";
 
+const IndexPage = ({ history }) => {
+  const authDispatch = useAuthDispatch();
+  const messageDispatch = useMessageDispatch();
 
+  const { user } = useAuthState();
+
+  const { data: messageData, error: messageError } = useSubscription(
+    NEW_MESSAGE,
+  );
 
   const { data: reactionData, error: reactionError } = useSubscription(
     NEW_REACTION,
