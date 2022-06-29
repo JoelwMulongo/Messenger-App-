@@ -7,8 +7,7 @@ import RegisterPage from "./pages/register";
 import { AuthProvider } from "./context/auth";
 import { MessageProvider } from "./context/message";
 import DynamicRoute from "./utils/dynamic-route";const App = () => {
-
-  return (
+return (
 
     <ApolloProvider>
 
