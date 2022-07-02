@@ -16,10 +16,7 @@ const Message = ({ message }) => {
     onError(error) {
       console.log(error);
     },
-  });
-
-  
-              >
+  });.         >
                 {reaction}
               </Button>
             ))}
