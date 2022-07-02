@@ -11,15 +11,7 @@ const LoginPage = ({ history }) => {
     password: "",
   });
 
-  const [errors, setErrors] = useState({});
-
-  const dispatch = useAuthDispatch();
-
-  const [loginUser, { loading }] = useLazyQuery(LOGIN_USER, {
-    onCompleted(data) {
-      dispatch({
-        type: "LOGIN",
-        payload: data.login,
+  
       });
       window.location.href = "/";
     },
