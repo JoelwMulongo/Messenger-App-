@@ -10,6 +10,15 @@ const LoginPage = ({ history }) => {
     username: "",
     password: "",
   });
+const [errors, setErrors] = useState({});
+
+  const dispatch = useAuthDispatch();
+
+  const [loginUser, { loading }] = useLazyQuery(LOGIN_USER, {
+    onCompleted(data) {
+      dispatch({
+        type: "LOGIN",
+        payload: data.login,
 
   
       });
@@ -19,7 +28,6 @@ const LoginPage = ({ history }) => {
       setErrors(error.graphQLErrors[0].extensions.errors);
     },
   });
-
   const handleSubmitLoginForm = (event) => {
     event.preventDefault();
     loginUser({ variables });
