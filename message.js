@@ -18,40 +18,7 @@ const Message = ({ message }) => {
     },
   });
 
-  const { user } = useAuthState();
-  const sent = message.from === user.username;
-  const received = !sent;
-  const placement = sent ? "right" : "left";
-  const [showPopOver, setShowPopOver] = useState(false);
-
-  const reactedIcons = [...new Set(message.reactions.map((r) => r.content))];
-
-  const handleReaction = (reaction) => {
-    reactToMessage({
-      variables: {
-        uuid: message.uuid,
-        content: reaction,
-      },
-    });
-  };
-
-  const reactButton = (
-    <OverlayTrigger
-      trigger="click"
-      placement="top"
-      show={showPopOver}
-      onToggle={setShowPopOver}
-      transition={false}
-      /* rootClose */
-      overlay={
-        <Popover className="rounded-pill">
-          <Popover.Content className="d-flex align-items-center p-1 react-icon-button-popover">
-            {reactions.map((reaction) => (
-              <Button
-                variant="link"
-                className="react-icon-button"
-                key={reaction}
-                onClick={() => handleReaction(reaction)}
+  
               >
                 {reaction}
               </Button>
