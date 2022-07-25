@@ -11,8 +11,7 @@ const RegisterPage = ({ history }) => {
     password: "",
     confirmPassword: "",
   });
-
-  const [errors, setErrors] = useState({});
+ const [errors, setErrors] = useState({});
 
   const [registerUser, { loading }] = useMutation(REGISTER_USER, {
     update(_cache, _mutationResult) {
