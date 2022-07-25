@@ -26,7 +26,6 @@ const RegisterPage = ({ history }) => {
     event.preventDefault();
     registerUser({ variables });
   };
-
   return (
     <Row className="bg-white py-5 justify-content-center">
       <Col sm={8} md={6} lg={4}>
