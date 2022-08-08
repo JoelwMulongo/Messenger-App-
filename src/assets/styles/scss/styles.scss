@@ -1,0 +1,85 @@
+$blue: #1877f2;
+$green: #42b72a;
+$border-radius: 0;
+$paragraph-margin-bottom: 0;
+$gray-600: rgb(240, 240, 240);
+
+@import "~bootstrap/scss/bootstrap";
+
+/* Resets */
+body {
+  min-height: 100vh;
+  background: linear-gradient(
+    203deg,
+    rgba(248, 183, 233, 0.9) 0%,
+    rgba(148, 191, 225, 0.9) 50%,
+    rgba(252, 254, 184, 0.9) 100%
+  );
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+/* Enhancements */
+.user-container {
+  &:hover {
+    background-color: rgb(245, 245, 245);
+  }
+}
+
+.user-container-selected {
+  background-color: rgb(250, 250, 250);
+}
+
+.messages-box {
+  height: 500px;
+  overflow-y: scroll;
+
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.user-image {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.message-input {
+  &::placeholder {
+    color: rgba(0, 0, 0, 0.5);
+  }
+}
+
+.info-text {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.react-icon-button-popover {
+  height: 2.5rem;
+}
+
+.react-icon-button {
+  padding: 0 0.3125rem 0;
+  font-size: 1rem;
+  transition: 0.25s;
+
+  &:hover {
+    text-decoration: none;
+    font-size: 1.5rem;
+  }
+}
+
+.reactions-cell {
+  position: absolute;
+  right: -0.625rem;
+  bottom: -1.625rem;
+  font-size: 0.9rem;
+}
