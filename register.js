@@ -117,20 +117,6 @@ const RegisterPage = ({ history }) => {
             )}
           </Form.Group>
 
-          <div className="text-center mt-4">
-            <Button variant="success" type="submit" disabled={loading}>
-              {loading ? "Loading..." : "Register"}
-            </Button>
-            <br />
-            <br />
-            <small>
-              Already have an account? <Link to="/login">Login here</Link>.
-            </small>
-          </div>
-        </Form>
-      </Col>
-    </Row>
-  );
-};
+          
 
 export default RegisterPage;
